@@ -1,3 +1,10 @@
+'''
+Name : Source code Editor in Python,
+Author : FutureProgrammers( Abheet ),
+Licence : MIT Licence,
+Publisher : https://github.com/futureprogrammers09
+'''
+
 import datetime
 import os
 from tkinter import *
